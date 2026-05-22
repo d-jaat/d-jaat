@@ -1,8 +1,5 @@
 <div align="center">
 
-# Hi 👋 I'm Devvrat
-
-### AI/ML • Deep Learning • Cybersecurity • Research
 
 <img src="./assets/minecraft-himalaya-banner.png" width="100%" alt="Minecraft Himalayan Ray Traced Banner" />
 
